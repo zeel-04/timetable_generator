@@ -1,0 +1,23 @@
+{
+  "name": "timetable_generator",
+  "version": "1.0.0",
+  "description": "Time table generating task made easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeel-04/tt-backend.git"
+  },
+  "author": "raj | zeel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeel-04/tt-backend/issues"
+  },
+  "homepage": "https://github.com/zeel-04/tt-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
